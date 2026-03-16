@@ -1,4 +1,4 @@
-package Dia2302Aula01ComExemplosIniciaisDePOO;
+package Aula01Dia2302Aula01ComExemplosIniciaisDePOO;
 
 public class Garrafa {
     String corDaGarrafa;

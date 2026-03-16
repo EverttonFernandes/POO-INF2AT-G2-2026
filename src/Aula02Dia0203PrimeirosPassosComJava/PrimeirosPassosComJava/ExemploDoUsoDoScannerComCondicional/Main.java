@@ -1,4 +1,4 @@
-package Dia0203PrimeirosPassosComJava.PrimeirosPassosComJava.ExemploDoUsoDoScannerComCondicional;
+package Aula02Dia0203PrimeirosPassosComJava.PrimeirosPassosComJava.ExemploDoUsoDoScannerComCondicional;
 
 import java.util.Scanner;
 

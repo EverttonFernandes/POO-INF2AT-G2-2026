@@ -1,4 +1,4 @@
-package Dia0203PrimeirosPassosComJava.PrimeirosPassosComJava.Exercicio4;
+package Aula02Dia0203PrimeirosPassosComJava.PrimeirosPassosComJava.Exercicio2;
 
 import java.util.Scanner;
 
@@ -8,14 +8,12 @@ public class Main {
         System.out.println("Informe um numero: ");
         int numeroInformado = scanner.nextInt();
 
-        int quantidadeDePares = 0;
+        int somaTotal = 0;
 
         for (int indice = 1; indice <= numeroInformado; indice++) {
-            if(indice % 2 == 0){;
-                quantidadeDePares++;
-            }
+            somaTotal += indice;
         }
 
-        System.out.println("A quantidade de pares de 1 até o numero informado e: " + quantidadeDePares);
+        System.out.println("A soma total de 1 até o numero informado e: " + somaTotal);
     }
 }
