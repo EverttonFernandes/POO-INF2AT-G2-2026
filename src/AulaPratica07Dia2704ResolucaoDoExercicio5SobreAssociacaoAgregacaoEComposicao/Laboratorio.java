@@ -29,7 +29,6 @@ public class Laboratorio {
                 System.out.println("    - " + aluno.getNome() + " (Matrícula: " + aluno.getMatricula() + ")");
             }
         }
-
         if (arCondicionado != null) {
             System.out.println("Ar Condicionado: " + arCondicionado.getMarca() + " - " + arCondicionado.getTemperatura());
         } else {
